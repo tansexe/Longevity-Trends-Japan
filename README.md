@@ -47,7 +47,7 @@ The dataset (`Japan_life_expectancy.csv`) contains numerical and categorical var
 
 ## How to Run
 
-1. Open the Jupyter Notebook `Japan_Life_Expectancy_Enhanced.ipynb`.
+1. Open the Jupyter Notebook `Japan_Life_Expectancy_Insights.ipynb`.
 2. Ensure the dataset `Japan_life_expectancy.csv` is in the same directory.
 3. Run the cells sequentially to reproduce the analysis and visualizations.
 
